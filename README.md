@@ -1,6 +1,8 @@
-# Praktikum-3
+# Praktikum_3
+
 
 # Latihan 1 (Menampilkan bilangan terbesar dari sejumlah bilangan acak yang diinputkan)
+```
 -Mendeklarasikan variable int i=0; int max=0; int a,x; sebagai variable input
 -Memasukkan jumlah bilangan
 -Menentukan bilangan yang terbesar dengan rumus for (i;i<a;i++)
@@ -41,12 +43,13 @@ int main()
 
     return 0;
 }
-
+```
 -Berikut ScreenShotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-3/blob/master/Latihan1.png)
 
 # Latihan 2 (Menampilkan urutan bilangan dari yang terkecil sampai yang terbesar)
+```
 -Mendeklarasikan variable int a, b, c, sebagai variable input
 -Memasukkan nilai A, B, C,
 -Menentuka bilangan yang terbesar dengan rumus if (a<c and a<c)
@@ -108,12 +111,13 @@ int main()
         }
     return 0;
 }
-
+```
 -Berikut ScreenShotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-3/blob/master/Latihan2.png)
 
 # Latihan 3 (Menginput 3 buah bilangan yang masing-masing menyatakan panjang sisi segitiga)
+```
 -Mendeklarasikan variable int A,B,C; sebagai variable input
 -Memasukkan nilai A,B,C;
 -Menentukan bilangan yang terbesar dengan rumus if(A==B)
@@ -174,7 +178,7 @@ int main()
     }
     return 0;
 }
-
+```
 -Berikut ScreenShotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-3/blob/master/Latihan3.png)
